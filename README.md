@@ -91,7 +91,7 @@ These datasets are used to create tables and perform SQL analysis.
 ---
 
 ## 🔗 ER Diagram
-(Add your ER diagram image here after uploading)
+(https://github.com/Adesh2702/Dominos-SQL-Project/blob/main/er_diagram..png)
 
 ---
 
